@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CMP428  Project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resources/CLBG.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Images/CLBG.png</locationURI>
+		</link>
+		<link>
+			<name>resources/bg1.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/bg1.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
